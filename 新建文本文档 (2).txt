@@ -1,0 +1,16 @@
+﻿https://github.com/1152061385/DEV.git
+
+git config --global user.name "1152061385"
+
+git config --global user.email "1152061385@qq.com"
+
+git clone https://github.com/2650222521/DEV.git
+
+
+
+
+
+
+官网       chainge.finance
+VPN       https://163jsq.top?aff=131616
+邮箱       http://mail.163.com/dashi/?from=mail11&gotodownload=1
